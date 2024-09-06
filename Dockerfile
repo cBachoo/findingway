@@ -7,4 +7,4 @@ FROM alpine:3.19.1
 WORKDIR /findingway
 COPY --from=builder /src/findingway .
 COPY --from=builder /src/config.yaml .
-ENTRYPOINT [ "/findingway/findingway" ]
+CMD [ "/findingway/findingway" ]
