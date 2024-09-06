@@ -1,20 +1,21 @@
   channels
   - id: "1281624126250946641"
-    name: "QR D"
+    name: "dsr"
     duty: "Dragonsong's Reprise (Ultimate)"
     dataCentres: [Aether]
   - id: "1281624147599953971"
-    name: "QR TOP"
+    name: "top"
     duty: "The Omega Protocol (Ultimate)"
     dataCentres: [Aether]
-  - id: "1281624175789740083"
+  - id: "1281624175789740084"
+    name: "tea"
     duty: "The Epic of Alexander (Ultimate)"
     dataCentres: [Aether]
   - id: "1281624193703743571"
-    name: "QR UWU"
+    name: "uwu"
     duty: "The Weapon's Refrain (Ultimate)"
     dataCentres: [Aether]
   - id: "1281624208639787018"
-    name: "QR UCOB"
+    name: "ucob"
     duty: "The Unending Coil of Bahamut"
     dataCentres: [Aether]
