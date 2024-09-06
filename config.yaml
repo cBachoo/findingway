@@ -19,19 +19,3 @@ channels:
     name: "ucob"
     duty: "The Unending Coil of Bahamut (Ultimate)"
     dataCentres: [Aether]
-  - id: "1281662003135512586"
-    name: "m1s"
-    duty: "AAC Light-heavyweight M1 (Savage)"
-    dataCentres: [Aether]
-  - id: "1281662003135512586"
-    name: "m2s"
-    duty: "AAC Light-heavyweight M2 (Savage)"
-    dataCentres: [Aether]
-  - id: "1281662003135512586"
-    name: "m3s"
-    duty: "AAC Light-heavyweight M3 (Savage)"
-    dataCentres: [Aether]
-  - id: "1281662003135512586"
-    name: "m4s"
-    duty: "AAC Light-heavyweight M4 (Savage)"
-    dataCentres: [Aether]
