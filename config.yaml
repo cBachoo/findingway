@@ -19,3 +19,8 @@ channels:
     name: "ucob"
     duty: "The Unending Coil of Bahamut (Ultimate)"
     dataCentres: [Aether]
+  - id: "1307850313339764827"
+    name: "fru"
+    duty: "HighEndDuty" #temp solution pls fix l8r
+    #duty: "Futures Rewritten (Ultimate)"
+    dataCentres: [Aether]
