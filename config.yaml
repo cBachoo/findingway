@@ -21,6 +21,5 @@ channels:
     dataCentres: [Aether]
   - id: "1307850313339764827"
     name: "fru"
-    duty: "HighEndDuty" #temp solution pls fix l8r
-    #duty: "Futures Rewritten (Ultimate)"
+    duty: "Futures Rewritten (Ultimate)"
     dataCentres: [Aether]
