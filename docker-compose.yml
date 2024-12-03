@@ -1,0 +1,10 @@
+services:
+  findingway:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: findingway:latest
+    container_name: findingway
+    environment:
+      - DISCORD_TOKEN=YOUR_TOKEN_HERE
+    restart: unless-stopped
